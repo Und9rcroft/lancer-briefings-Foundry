@@ -89,15 +89,21 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
-      "current_md": "",
+      "mission_slug": "000",
+      "current_md": "000",
       "events": "",
       "missions": [
         {
-          "slug": "001",
-          "name": "Bug-Hunt",
+          "slug": "000",
+          "name": "Training Wheels",
           "status": "start"
         },
+        {
+          "slug": "001",
+          "name": "Bug Hunt",
+          "status": "start"
+        },
+
       ],
       "pilots": [
        {
