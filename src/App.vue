@@ -115,6 +115,14 @@ export default {
           "mech": "Let's Talk"
         },
         {
+          "callsign": "Wolf",
+          "alias": "Ledia Soliday",
+          "code": "12345",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Reply All"
+        },        
+        {
           "callsign": "Trooper",
           "alias": "clone 180",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
