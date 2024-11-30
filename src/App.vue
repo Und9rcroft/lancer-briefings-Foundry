@@ -125,7 +125,7 @@ export default {
         {
           "callsign": "Trooper",
           "alias": "clone 180",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "code": "8bf210aa-ef12-43b2-a1c8-bb47f3057ab9///NDL-C-STORM-HORIZON//b27e8f34-5e67-4fc0-9423-a12fd65cc701",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "My Regards"
@@ -133,7 +133,7 @@ export default {
         {
           "callsign": "Trooper",
           "alias": "clone 181",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "code": "9d3c84ef-a562-4b3f-928d-ff56b0c882a1///NDL-C-IRON-TITAN//c76a93f8-0b5e-4bca-b541-6d83c092ddc3",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "My Regards"
@@ -141,7 +141,7 @@ export default {
         {
           "callsign": "Trooper",
           "alias": "clone 182",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "code": "5e98d7bc-38fa-4823-aaf6-ed01f94f8c34///NDL-C-SHADOW-LANCE//d91eb72b-2a84-4ea9-b73c-7d29d40f8034",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "My Regards"
