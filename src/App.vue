@@ -133,11 +133,11 @@ export default {
         },
         {
           "callsign": "Lobster",
-          "alias": "Unknown",
-          "code": "e7c341dc-fb29-4b5e-8123-af67f3027cd1///LST-R-LOBSTER-CLAW//c8f4d129-7c63-4bfc-872b-d54ad47cc901",
-          "corpro": "Unknown",
-          "frame": "Unknown",
-          "mech": "Lobber"
+          "alias": "Larry Lobsterson",
+          "code": "SEAFOOD-420-CLAWZL-LOB-BATTLE-CHEF//BUTTERED-UP-9000",
+          "corpro": "Independent (Rumored to be sponsored by Red Lobster™)",
+          "frame": "SEAFOOD SUPREMACY",
+          "mech": "Buttered Justice"
         },                
         {
           "callsign": "Trooper",
