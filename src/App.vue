@@ -137,7 +137,7 @@ export default {
           "code": "e7c341dc-fb29-4b5e-8123-af67f3027cd1///LST-R-LOBSTER-CLAW//c8f4d129-7c63-4bfc-872b-d54ad47cc901",
           "corpro": "Unknown",
           "frame": "Unknown",
-          "mech": "Unknown"
+          "mech": "Lobber"
         },                
         {
           "callsign": "Trooper",
