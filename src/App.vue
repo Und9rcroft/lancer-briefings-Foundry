@@ -139,7 +139,7 @@ export default {
           "frame": "Everest",
           "mech": "My Regards"
         },
-        {
+        /*{
           "callsign": "Trooper",
           "alias": "clone 181",
           "code": "9d3c84ef-a562-4b3f-928d-ff56b0c882a1///NDL-C-IRON-TITAN//c76a93f8-0b5e-4bca-b541-6d83c092ddc3",
@@ -154,7 +154,7 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "My Regards"
-        },
+        }, */
       ],
       "header": {
         "planet": "Hercynia",
