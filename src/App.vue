@@ -118,7 +118,7 @@ export default {
        {
           "callsign": "Ronin",
           "alias": "Richard Oller",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "code": "a9d452bf-ce18-4b62-bc4f-ef93d2087ba1///RNN-B-RONIN-BLADE//e5f7c320-8d14-4eac-b751-c92fd47dd802",
           "corpro": "IPS-N",
           "frame": "BLACKBEARD",
           "mech": "Ever Closer"
@@ -130,11 +130,19 @@ export default {
           "corpro": "HORUS",
           "frame": "PEGASUS",
           "mech": "Justice Shared Freely"
-        },        
+        },
+        {
+          "callsign": "Lobster",
+          "alias": "Unknown",
+          "code": "e7c341dc-fb29-4b5e-8123-af67f3027cd1///LST-R-LOBSTER-CLAW//c8f4d129-7c63-4bfc-872b-d54ad47cc901",
+          "corpro": "Unknown",
+          "frame": "Unknown",
+          "mech": "My Regards"
+        },                
         {
           "callsign": "Trooper",
           "alias": "clone 180",
-          "code": "8bf210aa-ef12-43b2-a1c8-bb47f3057ab9///NDL-C-STORM-HORIZON//b27e8f34-5e67-4fc0-9423-a12fd65cc701",
+          "code": "d3e712ac-bf47-49f8-9263-af84f4026ea2///TRP-A-TROOPER-FRONTLINE//f9a3d216-6c84-45ba-983a-d31fc25aa604",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "My Regards"
