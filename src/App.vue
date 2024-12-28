@@ -96,14 +96,23 @@ export default {
         {
           "slug": "000",
           "name": "Training Wheels",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "001",
           "name": "Bug Hunt",
+          "status": "success"
+        },
+        {
+          "slug": "010",
+          "name": "Local Recon",
           "status": "start"
         },
-
+        {
+          "slug": "011",
+          "name": "Vault Hunter",
+          "status": "start"
+        },        
       ],
       "pilots": [
        {
