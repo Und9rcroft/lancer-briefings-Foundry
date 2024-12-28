@@ -127,9 +127,9 @@ export default {
           "callsign": "Wolf",
           "alias": "Ledia Soliday",
           "code": "12345",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Reply All"
+          "corpro": "HORUS",
+          "frame": "PEGASUS",
+          "mech": "Justice Shared Freely"
         },        
         {
           "callsign": "Trooper",
