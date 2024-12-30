@@ -106,7 +106,7 @@ export default {
         {
           "slug": "010",
           "name": "Local Recon",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "011",
@@ -133,11 +133,11 @@ export default {
         },
         {
           "callsign": "Lobster",
-          "alias": "Larry Lobsterson",
+          "alias": "Henry Saitomo",
           "code": "SEAFOOD-420-CLAWZL-LOB-BATTLE-CHEF//BUTTERED-UP-9000",
-          "corpro": "Independent (Rumored to be sponsored by Red Lobster™)",
-          "frame": "SEAFOOD SUPREMACY",
-          "mech": "Buttered Justice"
+          "corpro": "SSC",
+          "frame": "Monarch",
+          "mech": "ロブスター (Robusutā)"
         },                
         {
           "callsign": "Trooper",
