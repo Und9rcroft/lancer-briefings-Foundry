@@ -104,12 +104,12 @@ export default {
           "status": "success"
         },
         {
-          "slug": "010",
+          "slug": "003",
           "name": "Local Recon",
           "status": "success"
         },
         {
-          "slug": "011",
+          "slug": "004",
           "name": "Vault Hunter",
           "status": "start"
         },        
