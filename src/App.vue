@@ -126,7 +126,7 @@ export default {
         {
           "callsign": "Wolf",
           "alias": "Ledia Soliday",
-          "code": "12345",
+          "code": "7a3dc50f-3268-4906-8d3f-7e4006b3cb83//NDL-C-UNBENT-SKY",
           "corpro": "HORUS",
           "frame": "PEGASUS",
           "mech": "Justice Shared Freely"
@@ -138,7 +138,32 @@ export default {
           "corpro": "SSC",
           "frame": "Monarch",
           "mech": "ロブスター (Robusutā)"
-        },                
+        },
+
+        {
+          "callsign": "Vega",
+          "alias": "Isaac",
+          "code": "5ca7e5b2-050d-451d-bfdb-4d5e9572e798//NDL-C-BARYON-GIFT",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Fight Like You Mean It"
+        },
+        {
+          "callsign": "Earlybird",
+          "alias": "Hugh",
+          "code": "f8da0964-42e7-4684-81f0-fe97aa87ef35//NDL-C-DEEP-CAGE",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "A Thousand Lives"
+        },
+        {
+          "callsign": "Rosebud",
+          "alias": "Tom",
+          "code": "0f6c3342-016b-4700-b6e3-10fc8e1a5f0a//NDL-C-BLIND-NOVEMBER",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Sled"
+        },
         {
           "callsign": "Trooper",
           "alias": "clone 180",
@@ -148,12 +173,12 @@ export default {
           "mech": "My Regards"
         },
         /*{
-          "callsign": "Trooper",
-          "alias": "clone 181",
-          "code": "9d3c84ef-a562-4b3f-928d-ff56b0c882a1///NDL-C-IRON-TITAN//c76a93f8-0b5e-4bca-b541-6d83c092ddc3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "My Regards"
+          "callsign": "",
+          "alias": "",
+          "code": "",
+          "corpro": "",
+          "frame": "",
+          "mech": ""
         },
         {
           "callsign": "Trooper",
